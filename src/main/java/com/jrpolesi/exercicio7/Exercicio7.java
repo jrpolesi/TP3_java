@@ -1,7 +1,5 @@
 package com.jrpolesi.exercicio7;
 
-import java.util.Date;
-
 public class Exercicio7 {
     public static void execute() {
         Conta conta = new Conta(
